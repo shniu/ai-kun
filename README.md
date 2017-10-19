@@ -9,6 +9,7 @@
 * [gitbook帮助文档](https://toolchain.gitbook.com/config.html)
 * [help for gitbook](https://help.gitbook.com/)
 * theme-api 可以使用gitbook写API文档
+* [theme-faq用来写制作知识库或者帮助中心](https://plugins.gitbook.com/plugin/theme-faq)
 
 
 
