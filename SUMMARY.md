@@ -5,7 +5,6 @@
 ---
 
 * [学习资源](resources/README.md)
-  * 
 
 
 
