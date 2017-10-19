@@ -7,6 +7,7 @@
 ## 资料
 
 * [gitbook帮助文档](https://toolchain.gitbook.com/config.html)
+* [help for gitbook](https://help.gitbook.com/)
 
 
 
