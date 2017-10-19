@@ -2,5 +2,12 @@
   "title": "Machine Learning for Summary",
   "description": "Machine Learning for Summary",
   "author": "shniu<shaohan.niu.share@gmail.com>",
-  "language": "zh"
+  "language": "zh",
+  
+  "plugins": ["-lunr", "-search", "search-pro", "github", "katex"],
+  "pluginsConfig": {
+    "github": {
+        "url": "https://github.com/shniu"
+    }
+  }
 }
