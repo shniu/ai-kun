@@ -4,7 +4,7 @@
   "author": "shniu<shaohan.niu.share@gmail.com>",
   "language": "zh-hans",
   
-  "plugins": ["-lunr", "-search", "search-pro", "github", "katex", "splitter", "mermaid", "tbfed-pagefooter", "anchors", "anchor-navigation-ex"],
+  "plugins": ["-lunr", "-search", "search-pro", "github", "katex", "splitter", "mermaid", "tbfed-pagefooter", "anchors", "anchor-navigation-ex", "todo"],
   "pluginsConfig": {
     "github": {
         "url": "https://github.com/shniu"
