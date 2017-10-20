@@ -9,4 +9,4 @@
 * 查看目标变量的分布
 * 绘制变量之间两两的分布及相关度
 
-这里有一篇关于数据可视化的例子，[在iris数据集上做的可视化分析](https://www.kaggle.com/benhamner/python-data-visualizations)
+这里有一篇关于数据可视化的例子，[在iris数据集上做的可视化分析](https://www.kaggle.com/benhamner/python-data-visualizations)，非常详细
