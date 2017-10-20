@@ -6,7 +6,9 @@
 
 ## 机器学习
 
-* [数据探索](data_explor.md)
+* [机器学习](ml/README.md)
+  * [数据探索](ml/data_explor.md)
+  * [预处理](ml/preprocessing.md)
 
 ## 参考资料
 
