@@ -115,3 +115,4 @@ AdaBoost缺点：
 * [对boostrap bagging boosting非常好的解释](https://lidongxuan.github.io/blog/boosting)
 * [boosting家族的讲解](http://www.52caml.com/head_first_ml/ml-chapter6-boosting-family/)
 * [XGBoost awesome demo](https://github.com/dmlc/xgboost/tree/master/demo)
+* [XGBoost的原理](http://djjowfy.com/2017/08/01/XGBoost的原理/)
