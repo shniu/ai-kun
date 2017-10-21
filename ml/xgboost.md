@@ -33,7 +33,7 @@ bagging也叫自助汇聚法（bootstrap aggregating），比如原数据集中�
 
 bagging通过降低基分类器的方差改善了泛化误差，bagging的性能依赖于基分类器的稳定性。如果基分类器是不稳定的，bagging**有助于减少训练数据的随机波动导致的误差，如果基分类器是稳定的，即对训练数据集中的微小变化是鲁棒的，则组合分类器的误差主要由基分类器偏移所引起的，这种情况下，**bagging可能不会对基分类器有明显的改进效果，甚至可能降低分类器的性能。
 
-AdaBoost是boosting方法中最流行的版本；
+AdaBoost是boosting方法中最流行的版本；[有关boosting方法的概述看这里](https://baike.baidu.com/item/boosting/1403912)
 
 Boosting 的两个问题：
 
