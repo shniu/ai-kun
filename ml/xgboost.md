@@ -65,4 +65,5 @@ Boosting 的两个问题：
 * [提升方法](https://clyyuanzi.gitbooks.io/julymlnotes/content/adaboost.html)
 * [百科对boosting的起源介绍](https://baike.baidu.com/item/boosting/1403912)
 * [对boostrap bagging boosting非常好的解释](https://lidongxuan.github.io/blog/boosting)
+* [boosting家族的讲解](http://www.52caml.com/head_first_ml/ml-chapter6-boosting-family/)
 * [XGBoost awesome demo](https://github.com/dmlc/xgboost/tree/master/demo)
