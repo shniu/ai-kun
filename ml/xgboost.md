@@ -12,7 +12,7 @@ XGBoost是现在我们产品中主要使用的机器学习算法，应用在消�
 * CART
 * 提升方法 Boosting
 * 提升树 Boosting tree
-* 梯度提升树  Gradient Boosting
+* 梯度提升树  Gradient Boosting Tree
 * GBDT
 
 #### 提升方法 Boosting
@@ -101,6 +101,11 @@ AdaBoost缺点：
 提升树模型实际采用加法模型（即基函数的线性组合）与前向分步算法，以决策树为基函数的提升方法称为提升树（Boosting Tree）;
 
 > 对分类问题决策树是二叉分类树，对回归问题决策树是二叉回归树。在6.1.3节AdaBoost例子中，基本分类器是\(xv\)，可以看作是由一个跟结点直接连接两个叶结点的简单决策树，即所谓的决策树桩（Decision Stump）。
+
+##### Gradient Boosting Tree
+
+[看这里，从梯度提升到梯度提升树](http://kubicode.me/2016/04/24/Machine%20Learning/From-Gradient-Boosting-to-GBT/)
+
 
 ### XGBoost参考资料
 
