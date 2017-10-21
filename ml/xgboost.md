@@ -41,9 +41,28 @@ Boosting 的两个问题：
 * 如何将弱分类器组合成一个强分类器?
 
 
+##### AdaBoost
+
+> AdaBoost（adaptive boosting）是元算法，通过组合多个弱分类器来构建一个强分类器。我们为训练数据中的每一个样本都赋予其一个权重，这些权重构成了向量D，一开始，这些权重都初始化成相等值，然后每次添加一个弱分类器对样本进行分类，从第二次分类开始，将上一次分错的样本的权重提高，分对的样本权重降低，持续迭代。此外，对于每个弱分类器而言，每个分类器也有自己的权重，取决于它分类的加权错误率，加权错误率越低，则这个分类器的权重值α越高，最后综合多个弱分类器的分类结果和其对应的权重α得到预测结果，AdaBoost是最好的监督学习分类方法之一。
+
+总结一下AdaBoost的做法：
+
+* 目的: 使错误分类样本的权值加大, 在后一轮的弱分类器中, 得到更多关注
+  * 提高 前一轮弱分类器 错误分类样本 的权值
+  * 降低 被 正确分类样本 的权值.
+  
+* 弱分类的组合: AdaBoost采用加权多数表决的方法.
+  * 加大 分类误差率小的弱分类器的权值, 使其在表决中起较大的作用
+  * 减小 分类误差率大的弱分类器的权值, 使其在表决中起较小的作用
+  
+算法思路：
+
+> 
+
 ### XGBoost参考资料
 
 * [维基百科-提升方法](https://zh.wikipedia.org/wiki/%E6%8F%90%E5%8D%87%E6%96%B9%E6%B3%95)
 * [提升方法](https://clyyuanzi.gitbooks.io/julymlnotes/content/adaboost.html)
 * [百科对boosting的起源介绍](https://baike.baidu.com/item/boosting/1403912)
+* [对boostrap bagging boosting非常好的解释](https://lidongxuan.github.io/blog/boosting)
 * [XGBoost awesome demo](https://github.com/dmlc/xgboost/tree/master/demo)
