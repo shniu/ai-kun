@@ -116,3 +116,4 @@ AdaBoost缺点：
 * [boosting家族的讲解](http://www.52caml.com/head_first_ml/ml-chapter6-boosting-family/)
 * [XGBoost awesome demo](https://github.com/dmlc/xgboost/tree/master/demo)
 * [XGBoost的原理](http://djjowfy.com/2017/08/01/XGBoost的原理/)
+* [Complete Guide to Parameter Tuning in XGBoost (with codes in Python)](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
