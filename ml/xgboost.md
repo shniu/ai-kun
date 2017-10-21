@@ -9,6 +9,7 @@ XGBoost是现在我们产品中主要使用的机器学习算法，应用在消�
 去说XGBoost之前，需要对很多知识有所了解，如下：
 
 * 决策树 
+* CART
 * 提升方法 Boosting
 * 提升树 Boosting tree
 * 梯度提升树  Gradient Boosting
@@ -93,6 +94,8 @@ AdaBoost缺点：
 ##### 提升树 Boosting tree
 
 > 提升决策树是指以分类与回归树（CART）为基本分类器的提升方法，被认为是统计学习中性能最好的方法之一, 提升决策树简称提升树，Boosting Tree
+
+
 
 ### XGBoost参考资料
 
