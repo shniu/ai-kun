@@ -45,4 +45,5 @@ Boosting 的两个问题：
 
 * [维基百科-提升方法](https://zh.wikipedia.org/wiki/%E6%8F%90%E5%8D%87%E6%96%B9%E6%B3%95)
 * [提升方法](https://clyyuanzi.gitbooks.io/julymlnotes/content/adaboost.html)
+* [百科对boosting的起源介绍](https://baike.baidu.com/item/boosting/1403912)
 * [XGBoost awesome demo](https://github.com/dmlc/xgboost/tree/master/demo)
