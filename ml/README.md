@@ -17,3 +17,6 @@
 非常详细
 
 * [如何处理机器学习中的不平衡类别](https://github.com/xitu/gold-miner/blob/master/TODO/how-to-handle-imbalanced-classes-in-machine-learning.md)
+
+
+* [如何用 3 个月零基础入门机器学习？](https://mp.weixin.qq.com/s/AwgSiWbf1MNRr_9ng0umzg)
