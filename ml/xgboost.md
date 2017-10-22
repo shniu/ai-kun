@@ -117,3 +117,5 @@ AdaBoost缺点：
 * [XGBoost awesome demo](https://github.com/dmlc/xgboost/tree/master/demo)
 * [XGBoost的原理](http://djjowfy.com/2017/08/01/XGBoost的原理/)
 * [Complete Guide to Parameter Tuning in XGBoost (with codes in Python)](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
+
+* [Tree Boosting With XGBoost Why Does XGBoost Win "Every" Machine Learning Competition?](https://brage.bibsys.no/xmlui/bitstream/handle/11250/2433761/16128_FULLTEXT.pdf?sequence=1&isAllowed=y)
