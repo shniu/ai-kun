@@ -33,6 +33,8 @@ Below are the steps involved to understand, clean and prepare your data for buil
 
 ##### Bi-variate Analysis 双变量分析
 
+双变量分析发现两个变量之间的关系。 在这里，我们在预定义的重要性级别寻找变量之间的关联和关联。 我们可以对分类和连续变量的任意组合进行双变量分析。 组合可以是：分类与分类，分类与连续连续连续。 在分析过程中使用不同的方法来处理这些组合。
+
 
 
 ### 特别的资料
