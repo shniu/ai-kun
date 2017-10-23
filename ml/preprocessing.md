@@ -59,6 +59,8 @@ Below are the steps involved to understand, clean and prepare your data for buil
 
 概率小于0.05：这表明变量之间的关系在95％的置信度上是显着的。
 
+**分类与连续：**在探索分类与连续变量之间的关系的同时，我们可以为各级分类变量绘制框图。 如果数量级别不大，则不显示统计学意义。 为了看统计学意义，我们可以进行Z检验，T检验或方差分析。
+
 ### 特别的资料
 
 * [sklearn中关于预处理的部分](http://sklearn.lzjqsdd.com/modules/preprocessing.html)
