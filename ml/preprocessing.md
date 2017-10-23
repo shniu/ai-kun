@@ -43,6 +43,10 @@ Below are the steps involved to understand, clean and prepare your data for buil
 * +1：完美的正线性相关和
 * 0：无相关
 
+相关性计算的方式皮尔逊相关性系数：
+
+> Correlation = Covariance(X,Y) / SQRT( Var(X)* Var(Y))
+
 ### 特别的资料
 
 * [sklearn中关于预处理的部分](http://sklearn.lzjqsdd.com/modules/preprocessing.html)
