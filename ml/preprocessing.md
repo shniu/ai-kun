@@ -2,7 +2,7 @@
 # 数据预处理
 
 ### Steps of Data Exploration and Preparation
-
+**Remember the quality of your inputs decide the quality of your output. **
 
 ### 特别的资料
 
