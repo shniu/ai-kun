@@ -107,6 +107,11 @@ AdaBoost缺点：
 [看这里，从梯度提升到梯度提升树](http://kubicode.me/2016/04/24/Machine%20Learning/From-Gradient-Boosting-to-GBT/)
 
 
+#### XGBoost实践
+
+
+
+
 ### XGBoost参考资料
 
 * [维基百科-提升方法](https://zh.wikipedia.org/wiki/%E6%8F%90%E5%8D%87%E6%96%B9%E6%B3%95)
