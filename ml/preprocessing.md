@@ -61,6 +61,14 @@ Below are the steps involved to understand, clean and prepare your data for buil
 
 **分类与连续：**在探索分类与连续变量之间的关系的同时，我们可以为各级分类变量绘制框图。 如果数量级别不大，则不显示统计学意义。 为了看统计学意义，我们可以进行Z检验，T检验或方差分析。
 
+##### Missing value 缺失值处理
+
+训练数据集中缺少的数据可以减少模型的功率/拟合，或者可能导致偏向模型，因为我们还没有正确地分析其他变量的行为和关系。 它可能导致错误的预测或分类。
+
+* 产生缺失值的原因
+  * 数据抽取过程中的计算错误或者其他原因
+  * 数据采集
+
 ### 特别的资料
 
 * [sklearn中关于预处理的部分](http://sklearn.lzjqsdd.com/modules/preprocessing.html)
