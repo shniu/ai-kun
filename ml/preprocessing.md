@@ -25,9 +25,15 @@ Below are the steps involved to understand, clean and prepare your data for buil
 
 **连续变量：** - 在连续变量的情况下，我们需要了解变量的中心趋势和扩散。 这些使用各种统计度量可视化方法进行测量；
 
+
+
 单变量分析也用于突出显示缺失值和异常值；
 
 **分类变量：** - 对于分类变量，我们将使用频率表来了解每个类别的分布。 我们也可以读取每个类别下的值的百分比。 可以使用两个指标来衡量，每个类别的Count和Count％。 条形图可用作可视化。
+
+##### Bi-variate Analysis 双变量分析
+
+
 
 ### 特别的资料
 
