@@ -14,4 +14,5 @@
 ## 参考资料
 
 * [学习资源](resources/README.md)
+  * [算法](resources/algorithm.md)
 
