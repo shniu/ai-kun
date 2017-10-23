@@ -25,7 +25,7 @@ Below are the steps involved to understand, clean and prepare your data for buil
 
 **连续变量：** - 在连续变量的情况下，我们需要了解变量的中心趋势和扩散。 这些使用各种统计度量可视化方法进行测量；
 
-
+![chart](/assets/image/1508765773622.jpg)
 
 单变量分析也用于突出显示缺失值和异常值；
 
