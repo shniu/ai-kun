@@ -84,6 +84,7 @@
 >     * 目标函数：loss function + 正则化项
 >   * sklearn & xgboost的结合使用，做模型训练
 >   * XGBoost的超参数与调优过程
+>   * XGBoost分布式训练（未着手做），结合dask的分布式平台
 
 **改进方式**
 
