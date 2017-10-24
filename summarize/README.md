@@ -80,7 +80,9 @@
 > * XGBoost建模
 >   * XGBoost原理
 >     * 链条：决策树->CART->Boosting（集成学习的一种）->AdaBoost->Gradient Boosting->Boosting Tree->GBDT & GBM->XGBoost
->     * 
+>     * XGBoost优点与性能
+>   * sklearn & xgboost的结合使用，做模型训练
+>   * XGBoost的超参数与调优过程
 
 **改进方式**
 
