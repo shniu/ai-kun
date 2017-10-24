@@ -76,7 +76,10 @@
 >     * 用学习及验证曲线来调试算法
 >     * 网格搜索、随机搜索调参数
 >     * 不同性能评价指标
->   * 集成学习 
+>   * 集成学习
+> * XGBoost建模
+>   * XGBoost原理
+>     * 链条：决策树->CART->Boosting（集成学习的一种）->AdaBoost->Gradient Boosting->Boosting Tree->GBDT & GBM->XGBoost
 
 **改进方式**
 
