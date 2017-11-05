@@ -69,10 +69,17 @@
 效率的提升可以体现在如下方面：
 
 1. 简化
+
+2. 
+3. 
+###### 
+
 ###### 一些可以深入阅读的书籍
 
 * [重新定义公司](https://book.douban.com/subject/26582822/)
+
 * [REWORK](https://coolshell.cn/articles/9156.html)
+
 * [what makes a good engineering culture](https://www.quora.com/What-makes-a-good-engineering-culture)
 
 
