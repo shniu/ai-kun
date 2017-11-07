@@ -1,8 +1,6 @@
 ### 先了解一下什么是OKR
 
-OKR是目标和关键结果
-
-
+OKR是Objective & Key Results，中文意思是目标与关键结果，最初由Intel发明，随后被包括Google和Zynga在内的大公司广泛应用。
 
 举几个OKR的例子，分析一下OKR的核心理念
 
