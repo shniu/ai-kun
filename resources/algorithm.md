@@ -9,5 +9,7 @@
   
 ### python
 
-* [pyCon slides](https://github.com/PyCon/2017-slides)  
+* [pyCon slides](https://github.com/PyCon/2017-slides)
+
+
 
